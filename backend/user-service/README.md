@@ -38,7 +38,7 @@ The Service should be available at `http:\\localhost:3001`.
 The Swagger documentation should be available at `http:\\localhost:3001\docs`
 
 
-![Class Diagram User Service](https://github.com/rohit-khanna/mini-shopping-cart/tree/main/diagrams/user-service/ClassDiagram.png)
+![Class Diagram User Service](../../diagrams/user-service/ClassDiagram.png)
 
 
 ## Todos
